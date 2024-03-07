@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Prettyverma
+- 👀 I’m interested in data analysis and have handson experience in Advanced Excel, Power BI, SQL, Python, Macros and VBA.
+- 🌱 I’m currently learning advanced data analysis techniques.
+- 💞️ I’m looking to collaborate on projects related to data analysis.
+- 📫 How to reach me: You can reach me via email at prettyverma2808@outlook.com.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love reading and exploring new places in my free time.
